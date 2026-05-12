@@ -1,0 +1,13 @@
+[
+  {
+    "id": "8a324289-1648-4faa-9941-3d01bdb499c1",
+    "cpf": "555555555",
+    "rg": "455448485",
+    "nome": "Rodrigo dos Santos zacari",
+    "idade": "32",
+    "email": "rodozacari@yahoo.com.br",
+    "login": "rds23",
+    "senha": "$2b$10$h7gHAyz6ois/oHdzAtoGvOQ7qQhsp6WpVqERo/J7Fhk7BVzV0sHqS",
+    "ativo": true
+  }
+]

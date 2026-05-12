@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1d38083c-4c39-49e5-960c-a2de77d8370c",
+    "id_usuario": "4b53f10e-f5f3-425a-9dfd-8bf43e398192",
+    "descricao": "teclado",
+    "quantidade": "3"
+  },
+  {
+    "id": "a8bc20c7-5159-4cb9-a55d-69661d6c4a60",
+    "id_usuario": "7db6a0f4-ddf3-40ff-818c-271685de2218",
+    "descricao": "MousePad",
+    "quantidade": "25"
+  },
+  {
+    "id": "ea726b6f-28c6-44de-a3ba-1ec9e38abacb",
+    "id_usuario": "6d42955a-3510-4542-a23d-fc4595e5adcf",
+    "descricao": "muse",
+    "quantidade": "2"
+  }
+]
