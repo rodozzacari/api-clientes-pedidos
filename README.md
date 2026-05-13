@@ -392,5 +392,3 @@ Rodrigo dos Santos Zacari
 
 Projeto desenvolvido para fins educacionais e avaliação técnica.
 
-![Cadastro](frontend/assets/cadastro.png)
-
